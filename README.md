@@ -5,9 +5,13 @@ Welcome to my Flask learning journey repository! This space documents my daily p
 **Table of Contents**
 
 Introduction
+
 Daily Learning Logs
+
 Projects
+
 Resources
+
 Connect
 
 **Introduction**
