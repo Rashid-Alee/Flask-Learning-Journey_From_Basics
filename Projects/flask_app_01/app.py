@@ -14,6 +14,21 @@ def hello_world():
     return "Hello, World!"
 
 
+@app.route("/about")
+def about():
+    return "about me"
+
+
+@app.route("/blog")
+def blog():
+    return "Blog page"
+
+
+@app.route("/blog/<string:blog_id>")
+def blog_post(blog_id):
+    return f"Blog post with ID: {blog_id}"
+
+
 # Check if the script is executed directly (not imported as a module)
 if __name__ == "__main__":
     # Start the Flask development server with debug mode enabled
