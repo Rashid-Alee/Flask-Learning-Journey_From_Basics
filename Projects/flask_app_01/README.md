@@ -41,5 +41,5 @@ Encountered some issues with Git commands and environment issues, but resolved t
 
 **Next Steps**
 
-Plan to learn about routing and templates in Flask.
+Plan to learn about templates and jinjas(loops,conditions) in Flask.
 
